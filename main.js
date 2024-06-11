@@ -1,6 +1,6 @@
 /*   
-  Project by Zua 
-  https://github.com/thatziv/webhook 
+  Project by LilpanXD 
+  https://github.com/LilpanXD/webhook
 */
 $(function(){
     $('#btn').click(function(){
